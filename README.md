@@ -1,5 +1,5 @@
-# car-color-classifier-yolo4-python
-Car color recognition example with YOLOv4 object detector
+# Car color recognition example with YOLOv4 object detector
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg)](LICENSE)
 
 ## Introduction
 
