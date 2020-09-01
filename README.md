@@ -11,7 +11,7 @@ This example takes an image as input, detects the cars using YOLOv4 object detec
 
 
 #### Usage
-Use --help to see usage of car_color_classifier_yolo3.py:
+Use --help to see usage of car_color_classifier_yolo4.py:
 ```
 $ python car_color_classifier_yolo4.py --image cars.jpg
 ```
@@ -55,8 +55,8 @@ classifier_input_size = (224, 224)
 ---
 ## Credits
 The examples are based on the tutorial by Adrian Rosebrock: [YOLO object detection with OpenCV](https://www.pyimagesearch.com/2018/11/12/yolo-object-detection-with-opencv/)
-The YOLOv4 object detector is from: [https://github.com/AlexeyAB/darknet](https://github.com/AlexeyAB/darknet)
 
+The YOLOv4 object detector is from: [https://github.com/AlexeyAB/darknet](https://github.com/AlexeyAB/darknet)
 ```
 @article{bochkovskiy2020yolov4,
   title={YOLOv4: Optimal Speed and Accuracy of Object Detection},
