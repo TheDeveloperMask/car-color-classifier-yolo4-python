@@ -3,7 +3,7 @@
 
 ## Introduction
 
-A Python example for using [Spectrico's car color classifier](http://spectrico.com/car-color-recognition.html). It consists of an object detector for finding the cars, and a classifier to recognize the colors of the detected cars. The object detector is an implementation of YOLOv4 (OpenCV DNN backend). YOLOv4 weights were downloaded from [AlexeyAB/darknet](https://github.com/AlexeyAB/darknet/releases/download/darknet_yolo_v3_optimal/yolov4.weights). The classifier is based on MobileNet v3 (TensorFlow backend). It recognizes 14 colors: black, white, grey, silver, blue, red, green, brown, beige, golden, bordeaux, yellow, orange, and violet.
+A Python example for using [Spectrico's car color classifier](http://spectrico.com/car-color-recognition.html). It consists of an object detector for finding the cars, and a classifier to recognize the colors of the detected cars. The object detector is an implementation of YOLOv4 (OpenCV DNN backend). YOLOv4 weights were downloaded from [AlexeyAB/darknet](https://github.com/AlexeyAB/darknet/releases/download/darknet_yolo_v3_optimal/yolov4.weights). The classifier is based on MobileNet v3 (TensorFlow backend). It recognizes 14 colors: black, white, grey, silver, blue, red, green, brown, beige, golden, bordeaux, yellow, orange, and violet. Online web demo: [Vehicle Make and Model Recognition](http://spectrico.com/demo-car-mmr.html)
 
 ---
 ## Object Detection and Classification in images
